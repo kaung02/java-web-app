@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Project Done</a>
 		</div>
 	</div>
 </nav>
@@ -40,9 +40,10 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To New World Technologies</h2>
+			<h2>Done DONE Done</h2>
 			<h3>Contact @ +95-9444438958</h3>
 			<h4>DevOps Project 1 - Jenkins Integrate with Docker</h4>
+			
 		</div>	
 	</div>
 
