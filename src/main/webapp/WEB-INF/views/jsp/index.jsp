@@ -42,7 +42,7 @@
 		<div class="col-md-8">
 			<h2>Project One complete</h2>
 			<h3>Kaung Myat was Here</h3>
-			<h4>DevOps Project 1 - Jenkins Integrate with Docker</h4>
+			<h4>DevOps Project 1 - Jenkins Integrate with Docker Complete</h4>
 			
 		</div>	
 	</div>
