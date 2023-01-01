@@ -50,7 +50,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; New World Technologies 2019</p>
+		<p>&copy; New World Technologies 2023</p>
 	</footer>
 </div>
 
