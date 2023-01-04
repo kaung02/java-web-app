@@ -42,14 +42,14 @@
 		<div class="col-md-8">
 			<h2>Welcome To New World Technologies</h2>
 			<h3>Contact @ +95-9444438958</h3>
-			<h4>DevOps Project 1 - Jenkins Integrate with Docker</h4>
+			<h4>DevOps Project 2 - Jenkins Integrate with Docker Swarm </h4>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Mithun Technologies 2023</p>
 	</footer>
 </div>
 
